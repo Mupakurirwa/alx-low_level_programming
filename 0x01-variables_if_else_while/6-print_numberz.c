@@ -1,6 +1,6 @@
 /*
  * File: 5-print_numbers.c
- * Base ten numbers
+ * Number bases
  */
 
 #include <stdio.h>
@@ -17,7 +17,7 @@ int main(void)
 	for (num = 0; num < 10; num++)
 		printf("%d", num);
 
-	scanf("\n");
+	putchar("\n");
 
 	return (0);
 }

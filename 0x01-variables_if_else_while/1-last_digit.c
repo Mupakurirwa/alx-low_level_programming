@@ -1,9 +1,9 @@
 /*
  * File: 1-last_digit.c
- *
+ *Random numbers
  */
 
-#include <stdio.h>
+#include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
 

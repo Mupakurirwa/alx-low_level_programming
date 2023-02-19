@@ -1,6 +1,6 @@
 /*
  * File: 5-print_numbers.c
- * Base 10 numbers
+ * Base ten numbers
  */
 
 #include <stdio.h>

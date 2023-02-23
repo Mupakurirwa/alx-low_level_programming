@@ -3,7 +3,6 @@
 /**
  * main - Testing function for positive or negative
  * Return: 0
- * By: Mupakurirwa Lawrence
  */
 
 int main(void)

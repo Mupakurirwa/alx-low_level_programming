@@ -1,7 +1,7 @@
 #include "main.h"
 
 /*
- * 2-strlen.c
+ * 2-lenght of string
  *
  */
 
@@ -11,6 +11,7 @@
  *
  * Return: The length of @str.
  */
+
 size_t _strlen(const char *str)
 {
 	size_t length = 0;

@@ -1,5 +1,9 @@
 #include "main.h"
 
+/*
+ * I can only go one way
+ */
+
 /**
  * print_rev - Prints a string in reverse.
  * @s: The string to be printed.
